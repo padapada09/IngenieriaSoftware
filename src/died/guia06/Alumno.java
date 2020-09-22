@@ -3,7 +3,7 @@ package died.guia06;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//Alumno es una clase para poder representar a los Alumnos de una Facultas.
 public class Alumno implements Comparable<Alumno> {
 
 	private String nombre;
